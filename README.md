@@ -22,3 +22,5 @@ body{
 background: red;
 }
 ```
+最后放一张图片
+![开心](2.jpg)
